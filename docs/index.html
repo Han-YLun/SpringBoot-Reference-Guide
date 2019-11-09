@@ -24,15 +24,13 @@
     
   <script>
     window.$docsify = {
-      //开启侧边栏
-      loadSidebar: true,
 
       //开启右上角github图标
       repo: 'https://github.com/Han-YLun',
 
-      //设置封面
-      coverpage: true,
-      // 加载 _sidebar.md
+      //激活封面功能。如果为true，则会从中加载_coverpage.md
+      //coverpage: true,
+      // _sidebar.md如果为真，则从_sidebar.md文件加载边栏，否则从指定的路径加载
       loadSidebar: true,
       //禁用emoji解析
       noEmoji : true,
@@ -47,6 +45,7 @@
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
 
 </body>
