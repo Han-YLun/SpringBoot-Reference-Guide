@@ -6,18 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link rel="stylesheet" type="text/css" href="../style.css">
-  <script src="//unpkg.com/docsify-plugin-codefund/index.js"></script>
+  <!-- 主题样式 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
 </head>
 
 <body>
-
-   <nav>
-    <a href="#">SpringBoot文档</a>
-    <a href="#">中文</a>
-  </nav>  
 
    <div id="app">加载中</div>
  
@@ -25,6 +19,7 @@
   <script>
     window.$docsify = {
 
+      
       //开启右上角github图标
       repo: 'https://github.com/Han-YLun',
 
@@ -39,14 +34,44 @@
       nextText: '下一章节',
       smartypants: true ,
 
+     
+
+
+
+      themeable: {
+         readyTransition: true ,
+         responsiveTables: true
+      } ,
+
+      //复制代码自定义
+      copyCode: {
+        buttonText : '复制代码',
+        errorText  : '失败',
+        successText: '复制成功'
+      } ,
+
+      //分页插件
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true
+      },
+
+
+
+
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- docsify-themeable插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-themeable"></script>
+  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
+  <!-- 复制代码 -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <!-- 下一页/下一页，分页插件 -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//unpkg.com/docsify"></script>
-  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
 
 </body>
 </html>
