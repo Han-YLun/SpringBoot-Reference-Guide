@@ -24,12 +24,12 @@
       repo: 'https://github.com/Han-YLun',
 
       //激活封面功能。如果为true，则会从中加载_coverpage.md
-      //coverpage: true,
+      coverpage: true,
       // _sidebar.md如果为真，则从_sidebar.md文件加载边栏，否则从指定的路径加载
       loadSidebar: true,
       //禁用emoji解析
       noEmoji : true,
-      smartypants: true ,
+
 
      
 
@@ -52,7 +52,10 @@
         previousText: '上一章节',
         nextText: '下一章节',
         crossChapter: true
-      },
+      } ,
+
+      //搜索
+      search: 'auto',
 
 
 
@@ -61,18 +64,14 @@
   </script>
 
   <!-- docsify-themeable插件 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
-  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="https://unpkg.com/docsify-themeable"></script>
-  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
-  <!-- 复制代码 -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+     <!-- 复制代码 -->
   <script src="//unpkg.com/docsify-copy-code"></script>
   <!-- 下一页/下一页，分页插件 -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!-- 代码高亮 -->
-  <script src="//unpkg.com/docsify"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
-
 </body>
 </html>
