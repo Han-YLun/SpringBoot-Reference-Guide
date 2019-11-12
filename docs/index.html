@@ -26,7 +26,7 @@
       //激活封面功能。如果为true，则会从中加载_coverpage.md
       coverpage: true,
       // _sidebar.md如果为真，则从_sidebar.md文件加载边栏，否则从指定的路径加载
-      loadSidebar: true,
+      loadSidebar: '_sidebar.md',
       //禁用emoji解析
       noEmoji : true,
 
@@ -72,6 +72,6 @@
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!-- 代码高亮 -->
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <script type="text/javascript" src="js/prism-java.js"></script>
 </body>
 </html>
