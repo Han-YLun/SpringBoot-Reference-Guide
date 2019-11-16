@@ -1,6 +1,6 @@
 * [法律](zh-cn/legal/legal.md)
-* [Spring Boot文档]()
-	* [1.关于文档](zh-cn/SpringBoot文档/first.md)
+* [Spring Boot文档](1)
+ 	* [1.关于文档](zh-cn/SpringBoot文档/first.md)
 	* [2.获取帮助](zh-cn/SpringBoot文档/second.md)
 	* [3.第一步](zh-cn/SpringBoot文档/three.md)
 	* [4.使用Spring Boot](zh-cn/SpringBoot文档/four.md)
