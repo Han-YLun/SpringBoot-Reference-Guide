@@ -1,4 +1,4 @@
-<h2>6. Moving to Production</h2><br>
+<h2>6. 迁移到生产环境</h2><br>
 
 当您准备将Spring Boot应用程序发布到生产环境时，你可能会喜欢[一些技巧](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready)：
 

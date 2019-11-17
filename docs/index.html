@@ -30,18 +30,13 @@
       //禁用emoji解析
       noEmoji       : true,
       auto2top      : true,
-      maxLevel      : 3,
-      subMaxLevel   : 3, 
-
-
-     
-
-
       //主题样式
       themeable: {
          readyTransition: true ,
-         responsiveTables: true
+         responsiveTables: true,
       } ,
+      maxLevel      : 1,
+      subMaxLevel   : 1,
 
       //复制代码自定义
       copyCode: {
@@ -56,6 +51,11 @@
         nextText: '下一章节',
         crossChapter: true
       } ,
+      search: {
+                depth      : 3,
+                noData     : 'No results!',
+                placeholder: 'Search...'
+      }
 
      
 
@@ -74,6 +74,6 @@
   <!-- 代码高亮 -->
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
-  
+  <script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
