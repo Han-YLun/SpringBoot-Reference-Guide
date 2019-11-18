@@ -7,7 +7,7 @@
 	* [5.了解Spring Boot特性](zh-cn/SpringBootDocument/RealizeSpringBootFeatures.md)
 	* [6.迁移到生产环境](zh-cn/SpringBootDocument/MoveProduction.md)
 	* [7.高级主题](zh-cn/SpringBootDocument/AdvancedTopics.md) 
-* [开始]()  
+* [开始](zh-cn/start/index.md)  
 	* [1.Spring Boot介绍](zh-cn/开始/1.md)
 	* [2.系统要求](zh-cn/开始/2.md)
 		* [2.1 Servlet容器](zh-cn/开始/2.1.md)
