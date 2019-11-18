@@ -3,7 +3,7 @@
 我们需要先创建一个Maven pom.xml文件。pom.xml是用来构建项目的。打开您喜欢的文本编辑器并添加以下内容：
 
 
-```
+```java
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
