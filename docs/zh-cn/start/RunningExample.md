@@ -2,7 +2,7 @@
 
 此时，您的应用程序应该可以工作了。由于使用了```spring-boot-starter-parent```下的POM，因此有一个有用的```run```目标，可以用来启动应用程序。从项目根目录中输入```mvn spring-boot:run```以启动应用程序。您应该看到类似于以下内容的输出：
 
-```java
+```XML
 $ mvn spring-boot:run
 
   .   ____          _            __ _ _
@@ -20,7 +20,7 @@ $ mvn spring-boot:run
 
 如果使用浏览器打开localhost:8080，则应该看到以下输出：
 
-```
+```JAVA
 Hello World!
 ```
 

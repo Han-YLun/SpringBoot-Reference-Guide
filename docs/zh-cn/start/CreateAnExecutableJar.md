@@ -11,7 +11,7 @@ Spring Boot采用了[另一种方法](https://docs.spring.io/spring-boot/docs/cu
 
 要创建可执行jar，我们需要将添加```spring-boot-maven-plugin```添到```pom.xml```。为此，请在该```dependencies```节点后面插入以下行：
 
-```java
+```XML
 <build>
     <plugins>
         <plugin>
