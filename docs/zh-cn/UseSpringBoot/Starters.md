@@ -12,6 +12,7 @@ Starters包含许多启动项目并快速运行所需的依赖项，并且提供
 如“[Creating Your Own Starter](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-custom-starter)”部分中所述，第三方starters不应以```spring-boot```开头，因为它跟Spring Boot官方artifacts冲突。一个acme的第三方starter通常命名为```acme-spring-boot-starter```。
 
 
+
 Spring Boot在该org.springframework.boot组下提供了以下应用程序启动器：
 
 表1. Spring Boot应用程序启动器
