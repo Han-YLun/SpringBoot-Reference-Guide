@@ -44,7 +44,7 @@
 		* [1.3 Gradle](zh-cn/UseSpringBoot/Gradle.md)
 		* [1.4 Ant](zh-cn/UseSpringBoot/Ant.md)
 		* [1.5 Starters](zh-cn/UseSpringBoot/Starters.md)
-	* [2.构建代码](zh-cn/UseSpringBoot/)
+	* [2.构建代码](zh-cn/UseSpringBoot/StructuringYourCode.md)
 		* [2.1 使用 "default"包](zh-cn/UseSpringBoot/)
 		* [2.2 放置应用的Main class](zh-cn/UseSpringBoot/)
 	* [3.配置类](zh-cn/UseSpringBoot/)
