@@ -1,0 +1,11 @@
+
+
+
+| Name                                    |                         Description                          | Pom                                                          |
+| --------------------------------------- | ----------------------------------------------------------| ------------------------------------------------------------ |
+| ```spring-boot-starter-jetty```         | 使用Jetty作为内嵌servlet容器的starter。[```spring-boot-starter-tomcat```](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#spring-boot-starter-tomcat)的替代品 | [Pom](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jetty/pom.xml) |
+| ```spring-boot-starter-log4j2```        | 使用Log4j2进行日志记录。[```spring-boot-starter-logging```](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#spring-boot-starter-logging)的替代品 | [Pom](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-log4j2/pom.xml) |
+| ```spring-boot-starter-logging```       |       使用Logback进行日志记录。默认记录日志的starter。       | [Pom1](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-logging/pom.xml) |
+| ```spring-boot-starter-reactor-netty``` |        使用Reactor Netty作为内嵌HTTP服务器的starter。        | [Pom](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty/pom.xml) |
+| ```spring-boot-starter-tomcat```        | 用于将Tomcat用作内嵌Servlet容器。默认使用的servlet容器starter是[```spring-boot-starter-web```](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#spring-boot-starter-web) | [Pom](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-tomcat/pom.xml) |
+| ```spring-boot-starter-undertow```      | 使用Undertow作为内嵌servlet容器的starter。[```spring-boot-starter-tomcat```](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#spring-boot-starter-tomcat)的替代品 | [Pom](https://github.com/spring-projects/spring-boot/tree/v2.2.2.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-undertow/pom.xml) |
