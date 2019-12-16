@@ -1,10 +1,13 @@
-a {
-    color: #4183c4;
-    line-height: inherit;
-    text-decoration: none;
-}
 .markdown-section a{
-	    color: #4183c4;
+	color: #4183c4;
     line-height: inherit;
     text-decoration: none;
 }
+.markdown-section a:hover{
+	 color: #4183c4;
+    line-height: inherit;
+}
+
+
+
+
