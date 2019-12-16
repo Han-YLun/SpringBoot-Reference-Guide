@@ -19,25 +19,29 @@
     
   <script>
     window.$docsify = {
+      //入口文件改为
+      homepage      : './zh-cn/legal/legal.md',
 
-
-
-      
       //开启右上角github图标
       repo          : 'https://github.com/Han-YLun',
 
       //激活封面功能。如果为true，则会从中加载_coverpage.md
       coverpage     : 'coverpage.md',
+
       // _sidebar.md如果为真，则从_sidebar.md文件加载边栏，否则从指定的路径加载
       loadSidebar   : 'sidebar.md',
+
       //禁用emoji解析
       noEmoji       : true,
+
       auto2top      : true,
+
       //主题样式
       themeable: {
          readyTransition: true ,
          responsiveTables: true,
       } ,
+
       maxLevel      : 1,
       subMaxLevel   : 1,
 
@@ -54,11 +58,13 @@
         nextText    : '下一章节',
         crossChapter: true
       } ,
+
       search: {
         depth      : 3,
         noData     : 'No results!',
         placeholder: 'Search...'
-      } , 
+      } ,
+
       markdown: {
         smartypants: true,
       },
