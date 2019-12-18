@@ -1,4 +1,4 @@
-<h2>7.3 使用Gradle插件运行</h2>
+<h2>7.4 使用Gradle插件运行</h2>
 
 Spring Boot Gradle插件还包含一个```bootRun```任务，可用于以热启动方式运行您的应用程序。```bootRun```每当您应用```org.springframework.boot```和```java```插件时，都会添加该任务：
 
