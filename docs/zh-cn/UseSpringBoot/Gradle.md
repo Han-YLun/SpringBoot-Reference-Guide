@@ -1,4 +1,4 @@
-<h2>1.3. Gradle</h2><br>
+<h2>1.3 Gradle</h2>
 
 要了解有关将Spring Boot与Gradle结合使用的信息，请参阅Spring Boot的Gradle插件的文档：
 

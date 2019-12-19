@@ -1,4 +1,4 @@
-<h2>1. 介绍Spring Boot</h2>
+<h2>1.介绍Spring Boot</h2>
 Spring Boot使创建可运行的、独立的、生产级的基于Spring的应用程序变得容易。我们对Spring平台和第三方库持保留意见，这样您就可以以最小的麻烦开始使用。大多数Spring Boot应用程序只需要很少的Spring配置。
 
 您可以使用Spring Boot创建可以通过使用```java -jar```或更传统的部署方式启动的Java应用程序。我们还提供了一个运行“ spring脚本”的命令行工具。

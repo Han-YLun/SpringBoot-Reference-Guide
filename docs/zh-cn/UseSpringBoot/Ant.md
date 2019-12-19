@@ -1,4 +1,4 @@
-<h2>1.4. Ant</h2><br>
+<h2>1.4 Ant</h2>
 
 可以使用Apache Ant + Ivy构建Spring Boot项目。该```spring-boot-antlib```的"antlib"模块还可以帮助Ant创建可执行的JAR文件。
 

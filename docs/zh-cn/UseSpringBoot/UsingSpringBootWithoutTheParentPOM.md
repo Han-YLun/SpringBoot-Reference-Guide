@@ -1,4 +1,4 @@
-<h2>1.2.2. 在没有父POM的情况下使用Spring Boot</h2><br>
+<h2>1.2.2 在没有父POM的情况下使用Spring Boot</h2><br>
 
 并非每个人都喜欢从```spring-boot-starter-parent POM``` 继承。您可能需要使用自己公司的标准parent，或者可能希望显式声明所有Maven配置。
 

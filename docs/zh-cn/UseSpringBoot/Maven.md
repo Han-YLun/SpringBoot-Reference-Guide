@@ -1,4 +1,4 @@
-<h2>1.2. Maven</h2><br>
+<h2>1.2 Maven</h2><br>
 
 Maven用户可以从```spring-boot-starter-parent```项目继承以获得合适的默认值。父项目提供以下功能：
 

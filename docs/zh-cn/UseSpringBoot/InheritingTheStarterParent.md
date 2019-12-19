@@ -1,4 +1,4 @@
-1.2.1. 继承 Starter Parent
+<h2>1.2.1 继承 Starter Parent</h2>
 
 要将您的项目配置为继承自```spring-boot-starter-parent```，请设置```parent```如下：
 

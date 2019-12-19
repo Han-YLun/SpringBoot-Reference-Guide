@@ -1,4 +1,4 @@
-<h2>1.5. Starters</h2><br>
+<h2>1.5 Starters</h2><br>
 
 Starters是一组便捷的依赖项描述符的集合，您可以在应用程序中包括它们。您可以一站式获取所需的所有Spring和相关技术，而不必复制粘贴大量的示例代码和依赖描述符。例如，如果要开始使用Spring和JPA进行数据库访问，请在项目中包含```spring-boot-starter-data-jpa```依赖项。
 
