@@ -1,4 +1,4 @@
-<h2>1.关于文档</h2><br>
+<h2>1.关于文档</h2>
 Spring Boot参考指南可通过以下方式获得：
 
 * [多页HTML](https://docs.spring.io/spring-boot/docs/2.2.0.RELEASE/reference/html)

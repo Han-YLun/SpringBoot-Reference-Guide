@@ -1,4 +1,4 @@
-<h2>3.2.6. Windows Scoop安装</h2><br>
+<h2>3.2.6 Windows Scoop安装</h2>
 
 如果您使用的是Windows并使用[Scoop](https://scoop.sh/)，则可以使用以下命令安装Spring Boot CLI：
 

@@ -1,4 +1,4 @@
-<h2>5.了解Spring Boot功能</h2><br>
+<h2>5.了解Spring Boot功能</h2>
 
 是否需要有关Spring Boot核心功能的更多信息？ [以下内容适合您](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features):
 

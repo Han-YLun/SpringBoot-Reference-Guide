@@ -1,4 +1,4 @@
-<h2>4. 开发您的第一个Spring Boot应用程序</h2><br>
+<h2>4.开发您的第一个Spring Boot应用程序</h2>
 
 本节描述如何开发一个简单的“ Hello World！” Web应用程序，该应用程序重点介绍了Spring Boot的一些关键功能。我们使用Maven来构建该项目，因为大多数IDE都支持它。
 

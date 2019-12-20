@@ -1,4 +1,4 @@
-<h2>2.系统要求</h2><br>
+<h2>2.系统要求</h2>
 
 Spring Boot 2.2.1.RELEASE需要[Java 8](https://www.java.com/)，并且与Java 13（包括）兼容。 还需要[Spring Framework 5.2.1.RELEASE](https://docs.spring.io/spring/docs/5.2.1.RELEASE/spring-framework-reference/)或更高版本。
 

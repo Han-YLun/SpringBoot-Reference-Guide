@@ -1,4 +1,4 @@
-<h2>3.1.1. Maven安装</h2><br>
+<h2>3.1.1 Maven安装</h2>
 
 Spring Boot与Apache Maven 3.3或更高版本兼容。如果尚未安装Maven，则可以按照[maven.apache.org](https://maven.apache.org/)上的说明进行操作。
 

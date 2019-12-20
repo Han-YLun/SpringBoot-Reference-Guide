@@ -1,4 +1,4 @@
-<h2>3.3. 从较早版本的Spring Boot升级</h2><br>
+<h2>3.3 从较早版本的Spring Boot升级</h2>
 
 如果要从```1.x```Spring Boot发行版进行升级，请查看项目[Wiki上的“迁移指南”](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide)，其中提供了详细的升级说明。还请检查[“发行说明”](https://github.com/spring-projects/spring-boot/wiki)以获取每个发行版的“新功能和值得注意的功能”列表。
 

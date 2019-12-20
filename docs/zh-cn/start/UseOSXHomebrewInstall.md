@@ -1,4 +1,4 @@
-<h2>3.2.3. OSX Homebrew安装</h2><br>
+<h2>3.2.3 OSX Homebrew安装</h2>
 
 如果您使用的是Mac，并且使用[Homebrew](https://brew.sh/)，则可以使用以下命令安装Spring Boot CLI：
 

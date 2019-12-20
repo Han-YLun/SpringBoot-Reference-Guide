@@ -1,4 +1,4 @@
-<h2>4.使用Spring Boot</h2><br>
+<h2>4.使用Spring Boot</h2>
 
 准备好实际开始使用Spring Boot了吗？[我们为您服务](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot):
 

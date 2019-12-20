@@ -1,4 +1,5 @@
-<h1>Legal</h1><br><br>
+<h2>Legal</h2>
+
 2.2.0.RELEASE
 
 Copyright © 2012-2019

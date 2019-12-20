@@ -1,4 +1,4 @@
-<h2>4.3.1. @RestController和@RequestMapping注释</h2><br>
+<h2>4.3.1 @RestController和@RequestMapping注释</h2>
 
 我们```Example```类的第一个注释是```@RestController```。这被称为构造型注释。它为人们阅读代码提供了提示，对于Spring来说，类扮演了特定角色。在这种情况下，我们的类是一个web ```@Controller```，因此Spring在处理传入的Web请求时会考虑使用它。
 

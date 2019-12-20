@@ -1,5 +1,5 @@
 * [法律](zh-cn/legal/legal.md)
-* [Spring Boot文档](/zh-cn/SpringBootDocument/SpringBootDocumentIndex.md)
+* [Spring Boot文档](/zh-cn/SpringBootDocument/index.md)
  	* [1.关于文档](zh-cn/SpringBootDocument/AboutDocument.md)
 	* [2.获取帮助](zh-cn/SpringBootDocument/GetHelp.md)
 	* [3.第一步](zh-cn/SpringBootDocument/FirstStep.md)

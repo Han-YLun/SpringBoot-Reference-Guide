@@ -1,4 +1,4 @@
-<h2>4.2. 添加Classpath依赖</h2><br>
+<h2>4.2 添加Classpath依赖</h2>
 
 Spring Boot提供了许多“Starters”，使您可以将jars添加到Classpath中。示例程序中已经在POM的```parent```节点使用了```spring-boot-starter-parent```，它是一个特殊的starter，提供了有用的Maven默认设置。同时，它也提供一个```dependency-management```节点，这样对于期望（”blessed“）的依赖就可以省略```version```标记了。
 

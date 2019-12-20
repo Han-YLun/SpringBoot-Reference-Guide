@@ -1,4 +1,4 @@
-<h2>2.获得帮助</h2><br>
+<h2>2.获得帮助</h2>
 如果您在使用Spring Boot时遇到问题，我们将为您提供帮助。
 
 * 尝试使用[方法文档](https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto)。他们为最常见的问题提供解决方案。

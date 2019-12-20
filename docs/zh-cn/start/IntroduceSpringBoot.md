@@ -1,4 +1,4 @@
-<h2>1.介绍Spring Boot</h2><br>
+<h2>1.介绍Spring Boot</h2>
 
 Spring Boot简化了基于Spring的应用开发，你只需要"run"就能创建一个独立的，产品级别的Spring应用。我们为Spring平台和第三方库提供开箱即用的设置，这样您就可以有条不紊地开始。大多数Spring Boot应用程序只需要很少的Spring配置。
 

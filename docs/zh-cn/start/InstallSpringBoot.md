@@ -1,4 +1,4 @@
-<h2>3.安装Spring Boot</h2><br>
+<h2>3.安装Spring Boot</h2>
 
 Spring Boot可以与经典的Java开发工具一起使用，也可以作为命令行工具安装。无论哪种方式，都需要[Java SDK v1.8](https://www.java.com/)或更高版本。在开始之前，您应该使用以下命令检查当前的Java安装：
 

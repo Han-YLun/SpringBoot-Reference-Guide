@@ -1,4 +1,4 @@
-<h2>2.1. Servlet容器</h2><br>
+<h2>2.1 Servlet容器</h2>
 
 Spring Boot支持以下内嵌servlet容器：
 

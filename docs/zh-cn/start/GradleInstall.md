@@ -1,4 +1,4 @@
-<h2>3.1.2. Gradle安装</h2><br>
+<h2>3.1.2 Gradle安装</h2>
 
 Spring Boot与5.x兼容。4.10也支持但这种支持已取消，将在未来的版本中删除。如果尚未安装Gradle，则可以按照[gradle.org](https://gradle.org/)上的说明进行操作。
 

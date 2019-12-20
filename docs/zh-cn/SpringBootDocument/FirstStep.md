@@ -1,4 +1,4 @@
-<h2>3.第一步</h2><br>
+<h2>3.第一步</h2>
 
 如果您通常是从Spring Boot或“ Spring”开始的，请从[以下主题](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started)开始：
 

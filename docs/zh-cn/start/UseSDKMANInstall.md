@@ -1,4 +1,4 @@
-<h2>3.2.2. 使用SDKMAN安装！</h2><br>
+<h2>3.2.2 使用SDKMAN安装！</h2>
 
 SDKMAN（软件开发工具包管理器）可用于管理各种二进制SDK的多个版本，包括Groovy和Spring Boot CLI。可以从[sdkman.io](https://sdkman.io/)获取SDKMAN,并使用以下命令安装Spring Boot：
 
